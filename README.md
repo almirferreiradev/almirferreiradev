@@ -1,7 +1,7 @@
 ### ✨ Olá, bem vindx ao meu cantinho 🌈
 
 - 🌱 Portfólio em construção 💬
-- 🔮 Atualmente autodidata em desenvolvimento Front-End 💻
+- 🔮 Autodidata em desenvolvimento Front-End 💻
 -  ⚙ Engenheiro - UFLA 🌽
 - ✨ Empatia acima de tudo 🕊
 <!-- - 📫 Onde me encontrar também: <a target="_blank" href="https://almirferreiradev.github.io/portfolio"> Portfolio </a> -->

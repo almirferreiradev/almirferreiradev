@@ -1,11 +1,11 @@
-### ✨ Olá, bem vindx ao meu mundo 🌈
+### ✨ Olá, bem vindx ao meu cantinho 🌈
 
-
-- 🌱 Atualmente autodidata em desenvolvimento Front-End
+- 🌱 Portfólio em construção 💬
+- 🔮 Atualmente autodidata em desenvolvimento Front-End 💻
 -  ⚙ Engenheiro - UFLA 🌽
 - ✨ Empatia acima de tudo 🕊
 <!-- - 📫 Onde me encontrar também: <a target="_blank" href="https://almirferreiradev.github.io/portfolio"> Portfolio </a> -->
-- ⚡ Fun fact: Não curto café ❌☕😱
+- ⚡ Fun fact: Não tomo café ❌☕😱
 ##
 
 ### 👨‍💻 Tecnologias em estudo
